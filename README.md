@@ -1,2 +1,2 @@
 # CodeWars
-Collection of CodeWar challenges
+## Please feel free to browse my CodeWar challenges. 
